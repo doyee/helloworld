@@ -1,0 +1,16 @@
+index:000, Histogram: 13.338992%
+index:001, Histogram: 17.538645%
+index:002, Histogram: 7.101724%
+index:003, Histogram: 7.299833%
+index:004, Histogram: 7.519290%
+index:005, Histogram: 8.954347%
+index:006, Histogram: 7.752315%
+index:007, Histogram: 5.373843%
+index:008, Histogram: 4.702547%
+index:009, Histogram: 4.407986%
+index:010, Histogram: 2.661587%
+index:011, Histogram: 3.526428%
+index:012, Histogram: 3.437179%
+index:013, Histogram: 4.906700%
+index:014, Histogram: 1.470358%
+index:015, Histogram: 0.008230%
